@@ -19,3 +19,5 @@
 <code>Import-Module -Name Az -RequiredVersion 4.3.0</code>
 
 <code>Get-Command -Verb Get -Noun AzVM* -Module Az.Compute</code>
+
+<code>Get-Command -Verb Get -Noun Az* -Module Az.Network</code>
