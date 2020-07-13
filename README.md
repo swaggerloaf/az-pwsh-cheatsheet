@@ -13,6 +13,8 @@
     Install-Module -Name Az -AllowClobber -Force
 }
   </code>
+  
+<code>Update-Module -Name Az</code>
 
 <code>Get-InstalledModule -Name Az -AllVersions</code>
 
